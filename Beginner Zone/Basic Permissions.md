@@ -6,7 +6,7 @@ Can you find out how to get permissions to run the file?
 
 <h2> Break Down </h2>
 
-A file named basic_permissions.zip is given to us. We are looking to open the file and run it. The first thing that comes to mind is the <b>chmod</b> command. </br>
+A file named <b>basic_permissions.zip</b> is given to us. We are looking to open the file and run it. The first thing that comes to mind is the <b>chmod</b> command. </br>
 <b>Chmod</b> allows you to change the file permissions of the a file. With that being said we have all the tools we need to solve the problem.
 
 <h2> Step 1 </h2>
